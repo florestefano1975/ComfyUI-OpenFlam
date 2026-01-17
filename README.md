@@ -2,6 +2,8 @@
 
 Custom nodes for ComfyUI that integrate [OpenFLAM](https://github.com/adobe-research/openflam) - an advanced audio-text analysis model supporting both zero-shot sound event detection and large-scale audio retrieval via free-form text.
 
+![FLAM Visualization Example](assets/flam_visualization.png)
+
 ## Description
 
 OpenFLAM (Framewise Language-Audio Modeling) is a cutting-edge model based on contrastive language-audio pretraining (CLAP) that enhances frame-wise event localization capabilities through learnable text and audio biases and scales.
@@ -104,6 +106,8 @@ Generate a visual representation with audio spectrogram and FLAM similarity heat
 - Bottom panel: FLAM output heatmap showing similarity over time for each text prompt
 
 ## Example Workflows
+
+![ComfyUI Workflow Preview](assets/workflow_preview.png)
 
 ### Simple Global Analysis
 1. `OpenFLAM Load Model` → load the model
