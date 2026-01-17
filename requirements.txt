@@ -1,0 +1,16 @@
+# OpenFLAM ComfyUI Custom Node Requirements
+# Based on openflam/pyproject.toml dependencies
+
+numpy
+soundfile
+librosa
+torchlibrosa
+torch
+torchaudio
+torchvision
+lightning
+transformers
+matplotlib
+scipy
+huggingface-hub
+Pillow
