@@ -22,7 +22,7 @@ cd ComfyUI/custom_nodes
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ComfyUI-OpenFlam.git
+git clone https://github.com/stefanoflore75/ComfyUI-OpenFlam.git
 ```
 
 3. Install dependencies:
