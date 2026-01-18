@@ -32,7 +32,7 @@ class OpenFlamLoadModel:
             "required": {
                 "model_name": (["v1-base"],),
                 "cache_dir": ("STRING", {
-                    "default": "models/openflam",
+                    "default": "openflam",
                     "multiline": False
                 }),
             },

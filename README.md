@@ -191,4 +191,4 @@ For OpenFLAM-related issues, please refer to the [original repository](https://g
 ## Credits
 
 - **OpenFLAM**: Ke Chen, Yusong Wu, Oriol Nieto, Prem Seetharaman @ Adobe Research
-- **ComfyUI Integration**: [Your name]
+- **ComfyUI Integration**: stefanoflore75
